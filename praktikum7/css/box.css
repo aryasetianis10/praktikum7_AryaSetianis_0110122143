@@ -1,0 +1,41 @@
+.box1{
+    background-color: brown;
+    width: 20%;
+    height: 700px;
+    border: 2px solid black ;
+    margin: 2em 1em;
+    
+}
+.box2{
+    background-color: aqua;
+    width: 20%;
+    height: 700px;
+    border: 2px solid black;
+    margin: 2em 1em;
+}
+.box3{
+    background-color: blue;
+    width: 20%;
+    height: 700px;
+    border: 2px solid black ;
+    margin: 2em 1em;
+}
+.box4{
+    background-color: aquamarine;
+    width: 20%;
+    height: 700px;
+    border: 2px solid black ;
+    margin: 2em 1em;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 200px;
+    margin: 10em 1em;
+    border-radius: 1em;
+}
+.container{
+    display: flex;
+}
